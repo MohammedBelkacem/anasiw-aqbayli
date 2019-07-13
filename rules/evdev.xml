@@ -2320,8 +2320,8 @@
 
     <layout>
       <configItem>
-        <name>mz</name>        
-        <shortDescription>mz</shortDescription>
+        <name>kab</name>        
+        <shortDescription>kab</shortDescription>
         <description>Kabyle (Kabylia)</description>        
       </configItem>
       <variantList>
