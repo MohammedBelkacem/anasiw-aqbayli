@@ -24,7 +24,7 @@ Aucun droit n'est exigé. Ce logiciel est libre pour toute utilisation et reprod
 2. Combiner la touche AltGr+ Shift avec l'une des touches ci-dessous pour obtenir le caractère majuscule.
 
 # Remarque
-Pour intégrer le clavier Kabyle définitivement et par défaut sur toutes les distributions Linux, nous vous prions de rejoindres les projets de localistions des outils en langue Kabyle.
+Pour intégrer le clavier Kabyle définitivement et par défaut sur toutes les distributions Linux, nous vous prions de rejoindres les projets de localisations des outils en langue Kabyle.
 N'oubliez pas que la dsitribution Linux Mint est disponible en langue Kabyle.
 Rejoignez nous ici:
 
