@@ -27,7 +27,8 @@ Aucun droit n'est exigé. Ce logiciel est libre pour toute utilisation et reprod
 Pour intégrer le clavier Kabyle définitivement et par défaut sur toutes les distributions Linux, nous vous prions de rejoindres les projets de localistions des outils en langue Kabyle.
 N'oubliez pas que la dsitribution Linux Mint est disponible en langue Kabyle.
 Rejoignez nous ici:
-1- https://imsidag.com/
+
+1. https://imsidag.com/
 2. https://taqbaylitassa.wordpress.com/
 3. https://www.facebook.com/groups/165557820784383/
 4. https://www.facebook.com/groups/466670517097108/
