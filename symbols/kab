@@ -10,7 +10,7 @@ xkb_symbols "kabyle-latin" {
 
     name[Group1]="Kabyle (Kabylie, Kabyle latin caracters)";
 	
-     key <AE01>  { [ ampersand,          1,  onesuperior,   exclamdown ] };
+    key <AE01>  { [ ampersand,          1,  onesuperior,   exclamdown ] };
     key <AE02>  { [    eacute,          2,   asciitilde,    oneeighth ] };
     key <AE03>  { [  quotedbl,          3,   numbersign,     sterling ] };
     key <AE04>  { [apostrophe,          4,    braceleft,       dollar ] };
@@ -29,7 +29,7 @@ xkb_symbols "kabyle-latin" {
     key <AD05>  { [    t,    T, 0x1001E6D, 0x1001E6C]   };
     key <AD11>  { [dead_circumflex, dead_diaeresis, dead_diaeresis, dead_abovering ] };
     key <AD12>  { [    dollar,   sterling,     0x1000190,   0x100025B ] };
-    key <AC01>  { [         q,          Q,           at,  Greek_OMEGA ] };
+    key <AC01>  { [         q,          Q,          0x1000263 ,0x1000194 ]      };
     key <AC02>  { [         s,          S,           0x1001E63, 0x1001E62 ]     };
     key <AC03>  { [         d,          D,           0x1001E0D, 0x1001E0C ]     };
     key <AC05>  { [         g,          G,           0x10001E7,  0x10001E6 ]    };
@@ -38,7 +38,7 @@ xkb_symbols "kabyle-latin" {
     key <AC11>  { [    ugrave,    percent, 0x1000194,  0x1000263]       };
     key <TLDE>  { [twosuperior, asciitilde,     notsign,      notsign ] };
     key <BKSL>  { [  asterisk,         mu,   dead_grave,   dead_breve ] };
-    key <AB01>  { [         w,          W,      lstroke,      Lstroke ] };
+    key <AB01>  { [         w,          W,     0x100025B  ,0x1000190 ]  };
     key <AB03>  { [ c,          C,  0x100010D , 0x100010C ]     };
     key <AB07>  { [     comma,   question,   dead_acute, dead_doubleacute ] };
     key <AB08>  { [ semicolon,     period, horizconnector,   multiply ] };
@@ -47,6 +47,7 @@ xkb_symbols "kabyle-latin" {
 
         include "level3(ralt_switch)"
 };
+
 
 // French AZERTY keyboard used when typing French
 partial alphanumeric_keys
